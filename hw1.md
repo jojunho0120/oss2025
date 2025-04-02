@@ -3,7 +3,7 @@
       응용생명과학부 식물생명과학전공/2021428910/김승훈 (byeol-leaf)
       전공/학번/조준호 (my_github_name)
       전공/학번/최찬우 (my_github_name)
-      전공/학번/차서영 (my_github_name)
+      식품영양학과/2024005365/차서영 (chaseoyoung)
       전공/학번/최인녕 (my_github_name)
 
 ## 1. 개요
